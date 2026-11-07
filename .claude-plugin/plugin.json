@@ -1,0 +1,20 @@
+{
+  "name": "x-skills",
+  "description": "7 Claude skills for X (Twitter): post writer, thread builder, reply drafter, content planner, profile optimizer, humanizer, plus a Postiz publisher that schedules approved posts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrvsubstack/x-skills",
+  "keywords": [
+    "x",
+    "social-media",
+    "marketing",
+    "content",
+    "claude-skills",
+    "postiz",
+    "scheduling"
+  ]
+}
